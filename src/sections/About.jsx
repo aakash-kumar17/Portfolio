@@ -3,7 +3,7 @@ import Card from "../components/Card";
 import { Globe } from "../components/globe";
 import CopyEmailButton from "../components/CopyEmailButton";
 import DownloadResumeButton from "../components/DownloadResumeButton";
-import { Frameworks } from "../components/FrameWorks";
+import { Frameworks } from "../components/Frameworks";
 import { education, experiences } from "../constants";
 
 const About = () => {
